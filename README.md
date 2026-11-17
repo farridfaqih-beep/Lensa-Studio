@@ -110,7 +110,7 @@ lensa-studio/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/USERNAME/lensa-studio-management-system.git
+git clone https://github.com/farridfaqih-beep/lensa-studio-management-system.git
 ```
 
 Enter the project directory:
